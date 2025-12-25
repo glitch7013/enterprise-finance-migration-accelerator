@@ -411,7 +411,7 @@ enterprise-finance-migration-accelerator/
 
 This project is licensed under the **Apache License 2.0** - see [LICENSE](LICENSE) for details.
 
-**Attribution:** Built by Tyler Rabiger | [GitHub](#)
+**Attribution:** Built by Tyler | [GitHub](#)
 
 ---
 
